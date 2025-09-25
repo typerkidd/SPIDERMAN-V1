@@ -39,12 +39,18 @@ First star & Fork the repo using the button below!
 
 ### 2. Get Session ID
 
-### ❄  PORTAL CODE
-[![PORTAL_CODE](https://img.shields.io/badge/PORTAL_CODE-FF7700?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000)](https://ome-c4086614f8ab.herokuapp.com/)
+### ❄  OPTION ONE
+[![PORTAL_CODE](https://img.shields.io/badge/PORTAL_CODE-FF7700?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000)](https://spiderman-pair-1.onrender.com/)
 
 
-#### ❄  OPTION ONE
-[![PAIR_CODE_1](https://img.shields.io/badge/PAIR_CODE_1-FF7700?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000)](https://ome-c4086614f8ab.herokuapp.com/pair)
+#### ❄  OPTION TWO
+[![PAIR_CODE_1](https://img.shields.io/badge/PAIR_CODE_1-FF7700?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000)](https://spiderman-pair-2.onrender.com/)
+
+#### ❄  OPTION THREE
+[![PAIR_CODE_1](https://img.shields.io/badge/PAIR_CODE_1-FF7700?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000)](https://spiderman-pair-3.onrender.com/))
+
+#### ❄  OPTION FOUR
+[![PAIR_CODE_1](https://img.shields.io/badge/PAIR_CODE_1-FF7700?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000)](https://spiderman-pair-4.onrender.com/)
 
 > Connection issues may require VPN activation.
 
@@ -57,7 +63,7 @@ First star & Fork the repo using the button below!
 
 | Heroku | TalkDrove |
 |--------|-----------|
-| [![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white&labelColor=000000&color=00ffff)](https://dashboard.heroku.com/new?template=https://github.com/SPIDERMAN-DIARIES/SPIDERMAN-V1/tree/main) | [![TalkDrove](https://img.shields.io/badge/TalkDrove-6971FF?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)](https://talkdrove.com/) |
+| [![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white&labelColor=000000&color=00ffff)](https://dashboard.heroku.com/new?template=https://github.com//typerkidd/SPIDERMAN-V1/tree/main) | [![TalkDrove](https://img.shields.io/badge/TalkDrove-6971FF?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)](https://talkdrove.com/) |
 
 | Koyeb | Railway |
 |-------|---------|
