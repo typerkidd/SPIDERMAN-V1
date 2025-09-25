@@ -40,17 +40,17 @@ First star & Fork the repo using the button below!
 ### 2. Get Session ID
 
 ### ❄  OPTION ONE
-[![PORTAL_CODE](https://img.shields.io/badge/PORTAL_CODE-FF7700?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000)](https://spiderman-pair-1.onrender.com/)
+[![PAIR CODE 1](https://img.shields.io/badge/PORTAL_CODE-FF7700?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000)](https://spiderman-pair-1.onrender.com/)
 
 
 #### ❄  OPTION TWO
-[![PAIR_CODE_1](https://img.shields.io/badge/PAIR_CODE_1-FF7700?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000)](https://spiderman-pair-2.onrender.com/)
+[![PAIR_CODE_2](https://img.shields.io/badge/PAIR_CODE_1-FF7700?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000)](https://spiderman-pair-2.onrender.com/)
 
 #### ❄  OPTION THREE
-[![PAIR_CODE_1](https://img.shields.io/badge/PAIR_CODE_1-FF7700?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000)](https://spiderman-pair-3.onrender.com/))
+[![PAIR_CODE_4](https://img.shields.io/badge/PAIR_CODE_1-FF7700?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000)](https://spiderman-pair-3.onrender.com/)
 
 #### ❄  OPTION FOUR
-[![PAIR_CODE_1](https://img.shields.io/badge/PAIR_CODE_1-FF7700?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000)](https://spiderman-pair-4.onrender.com/)
+[![PAIR_CODE_4](https://img.shields.io/badge/PAIR_CODE_1-FF7700?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000)](https://spiderman-pair-4.onrender.com/)
 
 > Connection issues may require VPN activation.
 
