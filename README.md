@@ -1,6 +1,6 @@
 # SPIDERMAN-V1
 SPIDERMAN-V1-A WHATSAPP BOT PACKED WITH MULTI FEATURES TO MEET THE FUNISM OF WHATSAPP..........CREATED BY THE T𝔼ℂℍ-𝔻𝔼𝕍𝕊-ℝ𝔼𝔹𝕆ℝℕ
-![](https://files.catbox.moe/u614qa.jpg)
+![](https://files.catbox.moe/uasv5c.jpg)
 
 
 
@@ -91,7 +91,7 @@ First star & Fork the repo using the button below!
 
 
 
-![Background Image](https://files.catbox.moe/vofmjs.jpg)
+![Background Image](https://files.catbox.moe/sh9hx1.jpg)
   <p align="center">
 <a href="https://github.com/GlobalTechInfo/followers"><img title="Followers" src="https://img.shields.io/github/followers/GlobalTechInfo?color=blue&style=flat-square"></a>
 
